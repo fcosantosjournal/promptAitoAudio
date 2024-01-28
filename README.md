@@ -12,6 +12,10 @@ Before running the project, make sure to follow these steps:
 
 2. Run `composer require google/cloud-text-to-speech` to add the necessary Google Cloud Text-to-Speech library to your project.
 
+3. Download the JSON authentication file from Google Cloud Platform and place it in the root directory of your project.
+
+4. Modify the file located at `/app/Controllers/OpenAiConfig.php` with your OpenAI API key.
+
 ## Getting Started
 
 ### Google Cloud Text-to-Speech
