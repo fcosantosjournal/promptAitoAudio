@@ -4,7 +4,7 @@ namespace App\Controllers;
 
 class OpenAiConfig {
 
-    const OPENAI_API_KEY = "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";
+    const OPENAI_API_KEY = "";
     const OPENAI_API_URL = "https://api.openai.com/v1/chat/completions";
     const OPENAI_MODEL = "gpt-3.5-turbo-1106";
     const OPENAI_MAX_TOKENS = 256;
