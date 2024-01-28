@@ -1,0 +1,11 @@
+{
+    "name": "simplex/text-to-speech",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "google/cloud-text-to-speech": "^1.8"
+    }
+}
